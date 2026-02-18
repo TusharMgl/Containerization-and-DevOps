@@ -19,14 +19,10 @@ fundamentals
 ## Repository Structure
 
     Containerization-DevOps/
-    │
-    │       
+    │      
     └── Lab/
         └── Lab-1/
             └── README.md
-
-
-
 ------------------------------------------------------------------------
 
 ## Lab Experiments
@@ -36,7 +32,7 @@ fundamentals
 This lab demonstrates the comparison between Virtual Machines and
 Containers using: - VirtualBox - Vagrant - Ubuntu - Docker - Nginx
 
-Lab documentation: [Go to Lab 1 README](Lab/Lab-1/README.md)
+Lab documentation: [Go to Lab 1 README](Lab-1/README.md)
 
 ### Lab 3 
 
