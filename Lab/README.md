@@ -38,6 +38,10 @@ Lab documentation: [Go to Lab 1 README](Lab-1/README.md)
 
 Deploying NGINX Using Different Base Images and Comparing Image Layers
 
-Lab documentation: [Go to Lab 3 Part1 README](Lab-3\Part1\Part1\Readme.md)
-Lab documentation: [Go to Lab 3 Part2 README](Lab-3\part2\part2\Readme.md)
+Lab documentation: [Go to Lab 3 Part1 README][def]
+Lab documentation: [Go to Lab 3 Part2 README][def2]
 
+
+
+[def]: Lab-3\Part1\Part1\Readme.md
+[def2]: Lab-3\part2\part2\Readme.md
