@@ -20,17 +20,12 @@ fundamentals
 
     Containerization-DevOps/
     │
-    ├── Theory/
     │       
     └── Lab/
         └── Lab-1/
             └── README.md
 
-------------------------------------------------------------------------
 
-## Theory Section
-
-This section contains class-wise theory notes.
 
 ------------------------------------------------------------------------
 
@@ -42,4 +37,11 @@ This lab demonstrates the comparison between Virtual Machines and
 Containers using: - VirtualBox - Vagrant - Ubuntu - Docker - Nginx
 
 Lab documentation: [Go to Lab 1 README](Lab/Lab-1/README.md)
+
+### Lab 3 
+
+Deploying NGINX Using Different Base Images and Comparing Image Layers
+
+Lab documentation: [Go to Lab 3 Part1 README](Lab/Lab-3/Part1/Part1/Readme.md)\n
+Lab documentation: [Go to Lab 3 Part2 README](Lab/Lab-3/part2/part2/Readme.md)
 
