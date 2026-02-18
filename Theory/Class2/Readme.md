@@ -95,10 +95,10 @@ docker history sapid-checker:500120513
 FROM python:3.10-slim
 WORKDIR /test
 RUN pip install numpy
-CMD ["python", "app.py"]
+CMD ["python", "test.py"]
 ```
 
-![nosrc Dockerfile](7.png)
+![nor Dockerfile](7.png)
 
 ---
 
@@ -109,7 +109,7 @@ Command:
 docker build -t sapid:1.1 -f nor.Dockerfile .
 ```
 
-![nosrc Build](8.png)
+![nor Build](8.png)
 
 ---
 
