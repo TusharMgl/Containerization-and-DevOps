@@ -18,18 +18,19 @@ fundamentals
 
 ## Repository Structure
 
-   Containerization-DevOps/
+Containerization-DevOps/
 |-- Theory/
 |   |-- Class1/
 |   |-- Class2/
 |   |-- Class3/
 |   |-- Class4/
 |   |-- Class5/
-|   
+|
 `-- Lab/
     |-- Lab-1/
     |-- Lab3/
     `-- Lab4/
+```
 
 ------------------------------------------------------------------------
 
