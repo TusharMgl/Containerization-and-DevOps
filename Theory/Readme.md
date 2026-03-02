@@ -33,7 +33,8 @@ Topics covered:
 - Volume mounting for dynamic execution
 
 [Open Class 2 Notes](Class2/README.md)
-[Open Class 2 Notes](Class3/README.md)
+
+[Open Class 3 Notes](Class3/README.md)
 
 ---
 
