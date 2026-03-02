@@ -42,14 +42,14 @@ Containerization-DevOps/
 This section contains class-wise theory notes.
 
 Link to theory index:
-- [Go to Theory README](Theory/README.md)
+- [Go to Theory README](Theory/Readme.md)
 
 Direct links:
-- [Go to Class 1 Notes](Theory/Class1/README.md)
-- [Go to Class 2 Notes](Theory/Class2/README.md)
-- [Go to Class 3 Notes](Theory/Class3/README.md)
-- [Go to Class 4 Notes](Theory/Class4/README.md)
-- [Go to Class 5 Notes](Theory/Class5/README.md)
+- [Go to Class 1 Notes](Theory/Class1/Readme.md)
+- [Go to Class 2 Notes](Theory/Class2/Readme.md)
+- [Go to Class 3 Notes](Theory/Class3/Readme.md)
+- [Go to Class 4 Notes](Theory/Class4/Readme.md)
+- [Go to Class 5 Notes](Theory/Class5/Readme.md)
 
 
 ------------------------------------------------------------------------
