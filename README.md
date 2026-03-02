@@ -18,19 +18,35 @@ fundamentals
 
 ## Repository Structure
 
-    Containerization-DevOps/
-    │
-    ├── Theory/
-    │       
-    └── Lab/
-        └── Lab-1/
-            └── README.md
+   Containerization-DevOps/
+|-- Theory/
+|   |-- Class1/
+|   |-- Class2/
+|   |-- Class3/
+|   |-- Class4/
+|   |-- Class5/
+|   
+`-- Lab/
+    |-- Lab-1/
+    |-- Lab3/
+    `-- Lab4/
 
 ------------------------------------------------------------------------
 
 ## Theory Section
 
 This section contains class-wise theory notes.
+
+Link to theory index:
+- [Go to Theory README](Theory/README.md)
+
+Direct links:
+- [Go to Class 1 Notes](Theory/Class1/README.md)
+- [Go to Class 2 Notes](Theory/Class2/README.md)
+- [Go to Class 3 Notes](Theory/Class3/README.md)
+- [Go to Class 4 Notes](Theory/Class4/README.md)
+- [Go to Class 5 Notes](Theory/Class5/README.md)
+
 
 ------------------------------------------------------------------------
 
