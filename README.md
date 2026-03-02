@@ -26,10 +26,6 @@ Containerization-DevOps/
 |   |-- Class3/
 |   |-- Class4/
 |   |-- Class5/
-|   |-- Class6/
-|   |-- Class7/
-|   |-- Class8/
-|   `-- Class9/
 `-- Lab/
     |-- Lab-1/
     |-- Lab2/
