@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+
+  db:
+    build: ./database
+    container_name: postgres_db
+    restart: always
+    env_file: .env
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      my_ipvlan_net:
+        ipv4_address: 192.168.140.20
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U myuser"]
+      interval: 10s
+      retries: 5
+
+  backend:
+    build: ./backend
+    container_name: node_backend
+    restart: always
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file: .env
+
+    networks:
+      my_ipvlan_net:
+        ipv4_address: 192.168.140.10
+      bridge_net:   # 👈 ADD THIS
+        # no static IP needed
+
+    ports:
+      - "3000:3000"
+
+networks:
+  my_ipvlan_net:
+    external: true
+  bridge_net:
+    driver: bridge
+volumes:
+  pgdata:
