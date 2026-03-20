@@ -1,13 +1,13 @@
-# 🚀 Containerized Web Application with PostgreSQL using Docker Compose & Macvlan
+#  Containerized Web Application with PostgreSQL using Docker Compose & Macvlan
 
-## 📚 Course Information
+##  Course Information
 **University:** University of Petroleum and Energy Studies  
 **Course:** Containerization and DevOps  
 **Assignment:** Containerized Web Application with PostgreSQL using Docker Compose and Macvlan  
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates a
 **containerized backend application**  using:
@@ -23,7 +23,7 @@ The system showcases **production-ready practices** including multi-stage builds
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
   Client (Postman / Browser) 
@@ -38,7 +38,7 @@ The system showcases **production-ready practices** including multi-stage builds
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
     project/ 
@@ -115,7 +115,7 @@ async function startServer() {
 
 startServer();
 ```
-## 📂 backend/package.js
+##  backend/package.js
 ```bash
 {
   "name": "app",
@@ -127,7 +127,7 @@ startServer();
   }
 }
 ```
-## 📂 backend/Dockerfile
+##  backend/Dockerfile
 ```bash
 # Stage 1
 FROM node:18-alpine AS builder
@@ -150,19 +150,19 @@ EXPOSE 3000
 CMD ["node", "src/index.js"]
 
 ```
-## 📂 backend/.dockerignore
+##  backend/.dockerignore
 ```bash
 node_modules
 .git
 ```
-## 📂 Database/init.sql
+##  Database/init.sql
 ```bash
 CREATE TABLE IF NOT EXISTS users (
     id SERIAL PRIMARY KEY,
     name TEXT
 );
 ```
-## 📂 database/Dockerfile
+##  database/Dockerfile
 ```bash
 FROM postgres:15-alpine
 
@@ -207,8 +207,7 @@ services:
     networks:
       my_ipvlan_net:
         ipv4_address: 192.168.140.10
-      bridge_net:   # 👈 ADD THIS
-        # no static IP needed
+      bridge_net:  
 
     ports:
       - "3000:3000"
@@ -234,7 +233,7 @@ mymacvlan
 ```
 ![CreateFiles](img/1.png)
 
-## 🚀 Build and Run
+## Build and Run
 
 ### Step 1: Build Images
 
