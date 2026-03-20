@@ -72,7 +72,7 @@ Lab documentation: [Go to Lab 3 Part2 README](Lab/Lab-3/part2/part2/Readme.md)
 
 ### Lab 4
 
-Lab documentation: [Go to Lab 4 README](Lab\Lab-4\Readme.md)
+Lab documentation: [Go to Lab 4 README](Lab/Lab-4/Readme.md)
 
 
 ### Assignment
