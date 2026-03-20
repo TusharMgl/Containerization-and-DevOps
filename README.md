@@ -71,6 +71,6 @@ Lab documentation: [Go to Lab 3 Part1 README](Lab/Lab-3/Part1/Part1/Readme.md)
 Lab documentation: [Go to Lab 3 Part2 README](Lab/Lab-3/part2/part2/Readme.md)
 
 
-### Assignment 
- Assignment - 1: [Go to Lab 3 Part1 README](Assingment - 1\Readme.md)
+### Assignment
 
+Assignment - 1: [Go to Lab 3 Part1 README](Assingment - 1/Readme.md)
