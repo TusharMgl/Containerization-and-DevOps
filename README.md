@@ -29,7 +29,11 @@ Containerization-DevOps/
 `-- Lab/
     |-- Lab-1/
     |-- Lab2/
-    `-- Lab3/
+    |-- Lab3/
+    |-- Lab4/
+    |-- Lab5/
+    |-- Lab6/
+    |-- Lab7/
 ```
 
 ---
@@ -73,6 +77,18 @@ Lab documentation: [Go to Lab 3 Part2 README](Lab/Lab-3/part2/part2/Readme.md)
 ### Lab 4
 
 Lab documentation: [Go to Lab 4 README](Lab/Lab-4/Readme.md)
+
+### Lab 5
+
+Lab documentation: [Go to Lab 5 README](Lab/Lab-5/Readme.md)
+
+### Lab 6
+
+Lab documentation: [Go to Lab 6 README](Lab/Lab-6/Readme.md)
+
+### Lab 7
+
+Lab documentation: [Go to Lab 7 README](Lab/Lab-7/Readme.md)
 
 
 ### Assignment

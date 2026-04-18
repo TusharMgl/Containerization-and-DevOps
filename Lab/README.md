@@ -23,6 +23,18 @@ fundamentals
     └── Lab/
         └── Lab-1/
             └── README.md
+        └── Lab-2/
+            └── README.md
+        └── Lab-3/
+            └── README.md
+        └── Lab-4/
+            └── README.md
+        └── Lab-5/
+            └── README.md
+        └── Lab-6/
+            └── README.md
+        └── Lab-7/
+            └── README.md
 ------------------------------------------------------------------------
 
 ## Lab Experiments
@@ -45,3 +57,19 @@ Lab documentation: [Go to Lab 3 Part2 README][def2]
 
 [def]: Lab-3\Part1\Part1\Readme.md
 [def2]: Lab-3\part2\part2\Readme.md
+
+### Lab 4
+
+Lab documentation: [Go to Lab 4 README](Lab-4/Readme.md)
+
+### Lab 5
+
+Lab documentation: [Go to Lab 5 README](Lab-5/Readme.md)
+
+### Lab 6
+
+Lab documentation: [Go to Lab 6 README](Lab-6/Readme.md)
+
+### Lab 7
+
+Lab documentation: [Go to Lab 7 README](Lab-7/Readme.md)
