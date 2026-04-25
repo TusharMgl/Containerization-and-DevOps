@@ -92,11 +92,11 @@ Lab documentation: [Go to Lab 7 README](Lab/xLab-7/Readme.md)
 
 ### Lab 9
 
-Lab documentation: [Go to Lab 7 README](Lab/Lab-9/Readme.md)
+Lab documentation: [Go to Lab 9 README](Lab/Lab-9/Readme.md)
 
 ### Lab 10
 
-Lab documentation: [Go to Lab 7 README](Lab/Lab-10/Readme.md)
+Lab documentation: [Go to Lab 10 README](Lab/Lab-10/Readme.md)
 
 
 ### Assignment
