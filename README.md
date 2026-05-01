@@ -96,7 +96,15 @@ Lab documentation: [Go to Lab 9 README](Lab/Lab-9/Readme.md)
 
 ### Lab 10
 
-Lab documentation: [Go to Lab 10 README](Lab/Lab-10/Readme.md)
+Lab documentation: [Go to Lab 10 README](Lab\Lab-10/Readme.md)
+
+### Lab 11
+
+Lab documentation: [Go to Lab 11 README](Lab/Lab-11/Readme.md)
+
+### Lab 12
+
+Lab documentation: [Go to Lab 12 README](Lab/Lab-12/Readme.md)
 
 
 ### Assignment

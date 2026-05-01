@@ -76,8 +76,17 @@ Lab documentation: [Go to Lab 7 README](Lab-7/Readme.md)
 
 ### Lab 9
 
-Lab documentation: [Go to Lab 9 README](Lab/Lab-9/Readme.md)
+Lab documentation: [Go to Lab 9 README](Lab-9/Readme.md)
 
 ### Lab 10
 
-Lab documentation: [Go to Lab 10 README](Lab/Lab-10/Readme.md)
+Lab documentation: [Go to Lab 10 README](Lab-10/Readme.md)
+
+### Lab 11
+
+Lab documentation: [Go to Lab 11 README](Lab-11/Readme.md)
+
+### Lab 12
+
+Lab documentation: [Go to Lab 12 README](Lab-12/Readme.md)
+
