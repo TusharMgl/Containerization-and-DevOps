@@ -294,28 +294,25 @@ The following screenshots document the complete setup and execution of this CI/C
 
 ### Jenkins Running via Docker Compose
 
-![Jenkins Docker Compose Up](img/0.png)
-![Jenkins Docker ps](img/1.png)
-
+![create](img/0.png)
+![create](img/1.png)
 ### Jenkins Initial Setup & Dashboard
-
-![Jenkins Dashboard](img/2.png)
+![create](img/2.png)
 
 ### Adding Docker Hub Credentials in Jenkins
 
-![Jenkins Dashboard](img/3.png)
+![create](img/3.png)
 
 ### Pipeline Job Configuration
 
-![Jenkins Dashboard](img/4.png)
+![create](img/4.png)
 
 ### Pipeline Build Execution
 
-![Jenkins Dashboard](img/5.png)
+![create](img/5.png)
 ### Image Successfully Pushed to Docker Hub
 
-![Jenkins Dashboard](img/6.png)
-
+![create](img/6.png)
 ---
 
 ## 16. Result
