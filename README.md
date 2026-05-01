@@ -88,7 +88,7 @@ Lab documentation: [Go to Lab 6 README](Lab/Lab-6/Readme.md)
 
 ### Lab 7
 
-Lab documentation: [Go to Lab 7 README](Lab/xLab-7/Readme.md)
+Lab documentation: [Go to Lab 7 README](Lab/Lab-7/Readme.md)
 
 ### Lab 9
 
